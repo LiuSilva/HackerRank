@@ -2,7 +2,7 @@
 
 **Task**
 
-Given an integer, \$ n \$, perform the following conditional actions:
+Given an integer, `n`, perform the following conditional actions:
 
 - If `n` is odd, print `Weird`
 - If `n` is even and in the inclusive range of `2` to `5`, print `Not Weird`
@@ -15,7 +15,7 @@ A single line containing a positive integer, .
 
 **Constraints**
 
-- `1 \el n \el 100`
+- `1 <= n <= 100`
 
 **Output Format**
 
